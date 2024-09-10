@@ -3,7 +3,7 @@ const app = express();
 const cors = require('cors');
 const port = 3001;
 
-// Configuración de CORS
+// Configuración de CORS...
 const corsOptions = {
   origin: 'http://localhost:3000',
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
