@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "cedula": "402-000000-0",
+    "nombre": "Roberto",
+    "apellido_primer": "Yirky",
+    "apellido_segundo": "Melanie",
+    "sexo": "N/A",
+    "fecha-nacimiento": "01-01-2000",
+    "telefono": "809-000-0000",
+    "telefono_emergencia": "809-000-0000",
+    "email": "example@gmail.com",
+    "direccion": {
+      "ciudad": "N/A",
+      "sector": "N/A",
+      "calle": "N/A",
+      "Num_casa": "N/A",
+      "zip_code": "N/A"
+    },
+    "Historial": [
+      {
+        "id_historial_registro": 1,
+        "titulo_historial": " Gripe mala",
+        "fecha_historial_registro": "01-01-2000",
+        "Doctor_especialista": "",
+        "observaciones": [
+          {
+            "id_observacion": 1,
+            "fecha_observacion": "01-01-2000",
+            "observacion_desarrollo": "Tiene un ojo afuera"
+          }
+        ],
+        "recetas_medicas": [
+          {
+            "id_receta_medica": 1,
+            "fecha_receta_medica": "01-01-2000",
+            "recetas_medicas_desarrollo": "Tiene un ojo afuera"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "cedula": "402-000000-0",
+    "nombre": "Roberto",
+    "apellido_primer": "Yirky",
+    "apellido_segundo": "Melanie",
+    "sexo": "N/A",
+    "fecha-nacimiento": "01-01-2000",
+    "telefono": "809-000-0000",
+    "telefono_emergencia": "809-000-0000",
+    "email": "example@gmail.com",
+    "direccion": {
+      "ciudad": "N/A",
+      "sector": "N/A",
+      "calle": "N/A",
+      "Num_casa": "N/A",
+      "zip_code": "N/A"
+    },
+    "Historial": [
+      {
+        "id_historial_registro": 1,
+        "titulo_historial": " Gripe mala",
+        "fecha_historial?registro": "01-01-2000",
+        "Doctor_especialista": "",
+        "observaciones": [
+          {
+            "id_observacion": 1,
+            "fecha_observacion": "01-01-2000",
+            "observacion_desarrollo": "Tiene un ojo afuera"
+          }
+        ],
+        "recetas_medicas": [
+          {
+            "id_receta_medica": 1,
+            "fecha_receta_medica": "01-01-2000",
+            "recetas_medicas_desarrollo": "Tiene un ojo afuera"
+          }
+        ]
+      }
+    ]
+  }
+]
